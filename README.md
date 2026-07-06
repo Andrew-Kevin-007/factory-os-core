@@ -13,7 +13,6 @@
 FactoryOS transforms traditional manufacturing operations into an intelligent, data-driven ecosystem. Our platform combines real-time monitoring, predictive analytics, and AI assistance to optimize production efficiency, ensure quality control, and enhance worker safety.
 
 ## Key Features
-
 ### Real-Time Dashboard
 - **Live Operational Metrics**: Real-time monitoring of machines, workers, orders, and safety alerts
 - **Production Analytics**: Advanced trend visualization comparing production output vs. defect rates
